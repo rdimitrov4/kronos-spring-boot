@@ -1,0 +1,9 @@
+{
+  "CustomersForSynonym3": {
+    "target": {
+      "object": "hdb-synonym-simple.db::CustomersForSynonym",
+      "schema": "SAMPLES_HDB_SYNONYM_SIMPLE"
+    },
+     "schema": "PUBLIC"
+  }
+}

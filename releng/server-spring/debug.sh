@@ -1,0 +1,1 @@
+java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8000 -jar ./target/kronos-server-spring-0.3.0-SNAPSHOT.jar

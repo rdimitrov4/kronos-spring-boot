@@ -1,0 +1,11 @@
+{
+    "configuration": "/hdi-ext/config.hdiconfig",
+    "users": ["DBADMIN"],
+    "group": "HDI_EXT_GROUP",
+    "container": "HDI_EXT_CONTAINER",
+    "deploy": [
+    	"/hdi-ext/Customers.hdbsynonym",
+    	"/hdi-ext/CustomersCalcView.hdbcalculationview"
+    ],
+    "undeploy": []
+}

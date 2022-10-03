@@ -1,0 +1,2 @@
+com.codbex.kronos.xssecurestore.ds.synchronizer.SecureStoreClasspathContentHandler # Secure Store Classpath Content Handler
+com.codbex.kronos.xsaccess.ds.synchronizer.SecurityClasspathContentHandler # Access Content Handler
